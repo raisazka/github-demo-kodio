@@ -1,4 +1,5 @@
 Feature:
 - Feature 1 to kickoff the project
 - Feature 2 to maintain project
+- Feature 4 to simulate the rebasing process
 - Feature 5 to simulate rebasing
