@@ -1,0 +1,2 @@
+Feature 1:
+- Fitur 1 untuk start the project
